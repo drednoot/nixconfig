@@ -76,6 +76,7 @@
 		hypridle
 		hyprshade
 		hyprcursor
+		hyprlock
 		brightnessctl
 		networkmanagerapplet
 
