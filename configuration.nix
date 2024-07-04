@@ -84,6 +84,7 @@
 
 		chromium
 		telegram-desktop
+		discord
 
 		slurp
 		grim
