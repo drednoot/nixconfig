@@ -78,7 +78,7 @@
 
 		chromium
 		telegram-desktop
-		discord
+		vesktop
 
 		slurp
 		grim
