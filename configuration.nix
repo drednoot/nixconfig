@@ -84,6 +84,8 @@
 		grim
 
 		fastfetch
+		alsa-utils
+		unzip
 
 		go
 	];
