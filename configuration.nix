@@ -42,12 +42,6 @@
 		LC_TIME = "ru_RU.UTF-8";
 	};
 
-	# Configure keymap in X11
-	# services.xserver = {
-	#	 layout = "us";
-	#	 xkbVariant = "";
-	# };
-
 	# Define a user account. Don't forget to set a password with ‘passwd’.
 	users.users.ns = {
 		isNormalUser = true;
