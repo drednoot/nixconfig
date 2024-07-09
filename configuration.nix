@@ -75,8 +75,6 @@
 		brightnessctl
 		networkmanagerapplet
 
-		nodejs_22
-
 		chromium
 		telegram-desktop
 		vesktop
@@ -89,6 +87,7 @@
 		unzip
 
 		go
+		nodejs_22
 	];
 
 	fonts.packages = with pkgs; [
