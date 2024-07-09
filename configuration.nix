@@ -88,6 +88,11 @@
 
 		go
 		nodejs_22
+		gnumake
+		gcc
+		libsForQt5.full
+		bear
+		clang-tools_18
 	];
 
 	fonts.packages = with pkgs; [
