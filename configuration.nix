@@ -63,6 +63,7 @@
 		kitty
 		zoxide
 		wl-clipboard
+		imv
 
 		wofi
 		waybar
