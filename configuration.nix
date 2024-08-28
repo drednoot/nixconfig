@@ -96,6 +96,11 @@
 		libsForQt5.full
 		bear
 		clang-tools_18
+		qtcreator
+		rustc
+		cargo
+		rust-analyzer
+		rustup
 	];
 
 	fonts.packages = with pkgs; [
@@ -147,4 +152,8 @@
 
 	powerManagement.enable = true;
 	services.tlp.enable = true;
+
+	programs.appimage.binfmt = true;
+
+	nix.settings.experimental-features = ["nix-command" "flakes"];
 }
