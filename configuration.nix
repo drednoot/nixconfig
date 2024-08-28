@@ -80,6 +80,7 @@
 		chromium
 		telegram-desktop
 		vesktop
+		anytype
 
 		slurp
 		grim
