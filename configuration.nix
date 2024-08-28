@@ -27,7 +27,7 @@
 	networking.networkmanager.enable = true;
 
 	# Set your time zone.
-	time.timeZone = "Europe/Samara";
+	time.timeZone = "Europe/Moscow";
 
 	# Select internationalisation properties.
 	i18n.defaultLocale = "en_US.UTF-8";
